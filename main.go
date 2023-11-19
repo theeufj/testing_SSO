@@ -7,9 +7,9 @@ import (
 	"log/slog"
 	"net/http"
 	"os"
-	"secure_file_transfer/api"
-	"secure_file_transfer/env"
-	"secure_file_transfer/middleware"
+	"testingSSO/api"
+	"testingSSO/env"
+	"testingSSO/middleware"
 
 	"github.com/gorilla/mux"
 )

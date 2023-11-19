@@ -1,6 +1,6 @@
-module secure_file_transfer
+module testingSSO
 
-go 1.21.3
+go 1.20.3
 
 require (
 	github.com/golang-jwt/jwt/v5 v5.0.0
